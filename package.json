@@ -1,0 +1,31 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslan3486/node-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslan3486/node-1/issues"
+  },
+  "homepage": "https://github.com/ruslan3486/node-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "shortid": "^2.2.16",
+    "uuid": "^8.3.2",
+    "webpack-dev-server": "^4.6.0",
+    "yargs": "^17.3.0"
+  }
+}
